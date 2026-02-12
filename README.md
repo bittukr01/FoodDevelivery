@@ -270,13 +270,6 @@ kill -9 <PID>
 - Use test keys for development
 - Check Stripe dashboard for test transactions
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-
-Created by [Your Name]
 
 ## 🙏 Acknowledgments
 
@@ -285,10 +278,5 @@ Created by [Your Name]
 - [Express.js Guide](https://expressjs.com)
 - [MongoDB Manual](https://docs.mongodb.com)
 
-## 📞 Support
-
-For issues and questions, please open an issue on GitHub.
-
----
 
 **Happy Coding! 🚀**
